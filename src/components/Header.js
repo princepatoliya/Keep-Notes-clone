@@ -2,9 +2,12 @@
 
 const Header = () => {
     return(
-        <div>
-            <h1>My Header</h1>
-        </div>
+
+            <div className="app-header">
+                    <img src="https://www.gstatic.com/images/branding/product/1x/keep_2020q4_48dp.png" />
+                    <h1>Keep</h1>
+            </div>
+
     )
 }
 
