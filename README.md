@@ -1,3 +1,3 @@
-# 💡 Notes clone
+# 💡 Keep Notes clone
 
 ---
