@@ -11,7 +11,8 @@ const Listitem = ({note}) => {
         <div>
             <Link to={`/note/${note.id}`}>
                 <div className="notes-list-item">
-                    <h3><h2>{note.title}</h2> {body}</h3>
+                    <h2>{note.title}</h2> 
+                    <h3>{body}</h3>
                 </div>
             </Link>
         </div>
