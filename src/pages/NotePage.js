@@ -79,7 +79,7 @@ const NotePage = ({match, history}) => {
                         <ArrowLeft onClick={handleSubmit} />
                     </Link>
                 </div>
-                <h1 className="note-title"> {note?.title}</h1>
+                <h1 className="note-title"></h1>
                 
                 {noteId !== "new" ? (
                     <button onClick={deleteNote}>DELETE</button>

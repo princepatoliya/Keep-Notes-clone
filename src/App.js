@@ -5,7 +5,7 @@ import {
 
 import './App.css';
 import Header from './components/Header';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 
 import NotesListPages from './pages/NotesListPages';
 import NotePage from './pages/NotePage'
@@ -18,7 +18,7 @@ function App() {
           <Header />
           <Route path="/" exact component={NotesListPages} />
           <Route path="/note/:id" component={NotePage} />
-          <Footer />
+          {/* <Footer /> */}
         </div>
       </div>
     </Router>
