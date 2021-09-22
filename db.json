@@ -1,23 +1,24 @@
 {
   "notes": [
     {
-      "id": 1
+      "id": 1,
+      "title": "Today Agenda",
+      "body": "- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad\n-asdasdasdasd\n",
+      "updated": "2021-09-22T04:45:47.647Z",
+      "created": "2021-07-13T21:54:16.235392Z"
     },
     {
-      "id": 2
-    },
-    {
-      "id": 3,
-      "title": "Wash car",
-      "body": "- Call Bob\n\n- prepare water and liquid",
-      "updated": "2021-07-13T19:46:12.187306Z",
-      "created": "2021-07-13T00:16:22.399841Z"
+      "id": 2,
+      "title": "Bob from bar down the",
+      "body": "------------------ \n-Take out trash\n- Eat food\n- Pay bills for Bar",
+      "updated": "2021-09-22T04:46:04.617Z",
+      "created": "2021-07-13T00:17:13.289897Z"
     },
     {
       "id": 4,
       "title": "Buy before 6:00 PM",
-      "body": "- Panner\n\n- Cheese\n\n- Butter\n\n- Pav\n\n- Kitchen King and Pav bhaji Masala",
-      "updated": "2021-07-13T19:46:12.187306Z",
+      "body": "asdhvhjasvjhdasd\n- Panner\n- Cheese\n- Butter\n- Pav\n- Kitchen King and Pav bhaji Masala\n",
+      "updated": "2021-09-22T04:45:51.268Z",
       "created": "2021-07-13T00:16:22.399841Z"
     }
   ]

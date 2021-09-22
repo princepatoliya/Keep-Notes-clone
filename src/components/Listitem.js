@@ -2,17 +2,13 @@ import React from 'react'
 
 import {Link} from 'react-router-dom';
 
-import NotePage from '../pages/NotePage';
-
 const Listitem = ({note}) => {
-    let body = note.body.substring(0,60) + "...";
-
     return (
         <div>
             <Link to={`/note/${note.id}`}>
                 <div className="notes-list-item">
                     <h2>{note.title}</h2> 
-                    <h3>{body}</h3>
+                    <h3>{note.body}</h3>
                 </div>
             </Link>
         </div>
